@@ -8,9 +8,10 @@ Because birds of a feather flock together.
 
 - [ ] Facebook login: http://www.samstarling.co.uk/2011/07/facebook-connect-python/
 
-## Installation
+## Installation Instructions
 
 Python Version 2.7.4
+
 Flask Version 0.10.1
 
 	$ virtualenv venv
