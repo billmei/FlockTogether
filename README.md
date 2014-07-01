@@ -3,8 +3,6 @@ Plan trips with your friends by letting everyone know where you want to travel i
 
 Because birds of a feather flock together.
 
-Copyright (C) 2014 Bill Mei. All rights reserved.
-
 ## TODO
 
 - [ ] Facebook login: http://www.samstarling.co.uk/2011/07/facebook-connect-python/
